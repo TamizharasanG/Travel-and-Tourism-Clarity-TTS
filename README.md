@@ -1,4 +1,4 @@
-#Travel Assistant Web App
+# Travel Assistant Web App
 
 This is a machine learning project that implements regression and recommendation system techniques to provide travel recommendations for users. 
 The project is built using Python and deployed as a web application.
